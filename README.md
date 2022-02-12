@@ -1,8 +1,5 @@
 # ComStealer
 Stealer coded in C++
-Disclaimer
-I, the creator am not responsible for anything you do with this software. This is intended to be used for testing purposes only and to demonstrate what kind of information a stealer can obtain from your computer. Please do not use this program maliciously as I completely forbid this.
-ok.
 
 Disclaimer
 I, the creator am not responsible for anything you do with this software. This is intended to be used for testing purposes only and to demonstrate what kind of information a stealer can obtain from your computer. Please do not use this program maliciously as I completely forbid this.
